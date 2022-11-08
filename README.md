@@ -19,5 +19,7 @@ Hi, I am a frontend web developer
     <a href="#" alt="Mohamad Hosseini's github stats">
         <img src="https://github-readme-stats.vercel.app/api?username=m-hosseini80&theme=tokyonight&show_icons=true"/>
     </a>
+    
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80&layout=compact)]

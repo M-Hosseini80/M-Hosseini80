@@ -22,4 +22,4 @@ Hi, I am a frontend web developer
     
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80&layout=compact)

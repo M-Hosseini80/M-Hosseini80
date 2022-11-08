@@ -1,14 +1,24 @@
 # [Seyed Mohamad Hossein Hosseini](https://mohamadhossein.ir/ "Seyed Mohamad Hossein Hosseini")
-<p>
-    Hi, I am a frontend web developer
-</p>
 
-<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80)
-</p>
+    Hi, I am a frontend web <developer/>
+
+<p align="center">
+     <a href="#" alt="Mohamad Hosseini's github top languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80"/>
+    </a>
+ </p>
+ 
+ - **Website**: https://mohamadhossein.ir/
+ - **Projects**: https://www.projects.mohamadhossein.ir/
+ - **LinkedIn**: https://www.linkedin.com/in/m-hosseini80/ 
+ - **YouTube**: https://www.youtube.com/c/M_Hosseini80 
+ - **WordPress**: https://profiles.wordpress.org/mhosseini80/
+ - **GitHub**: https://github.com/M-Hosseini80
+ - **GitHub.io**: https://m-hosseini80.github.io
+
 
 ## Languages and Tools:
-<div style="display:flex;justify-content:center;gap:10px;align-items:center">
+<div align="center">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -19,10 +29,9 @@
 <img  height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </div>
-<a href="https://m-hosseini80.github.io/">m-hosseini80.github.io/</a>
 
 
-<p>
+<p align="center">
     <a href="#" alt="Mohamad Hosseini's github stats">
         <img src="https://github-readme-stats.vercel.app/api?username=m-hosseini80&theme=tokyonight&show_icons=true"/>
     </a>

@@ -12,11 +12,10 @@ Hi, I am a frontend web developer
 <img  height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </div>
-https://m-hosseini80.github.io/
+<a href="https://m-hosseini80.github.io/">m-hosseini80.github.io/</a>
 
-<br/>
-<p align="center" >
+
     <a href="#" alt="Mohamad Hosseini's github stats">
         <img src="https://github-readme-stats.vercel.app/api?username=m-hosseini80&theme=tokyonight&show_icons=true"/>
     </a>
-</p>
+

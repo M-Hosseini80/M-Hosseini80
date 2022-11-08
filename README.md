@@ -2,7 +2,10 @@
 <p>
     Hi, I am a frontend web developer
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80&layout=compact)
+
+<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80)
+</p>
 
 ## Languages and Tools:
 <div style="display:flex;justify-content:center;gap:10px;align-items:center">

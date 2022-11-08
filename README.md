@@ -15,7 +15,9 @@ Hi, I am a frontend web developer
 <a href="https://m-hosseini80.github.io/">m-hosseini80.github.io/</a>
 
 
+<p>
     <a href="#" alt="Mohamad Hosseini's github stats">
         <img src="https://github-readme-stats.vercel.app/api?username=m-hosseini80&theme=tokyonight&show_icons=true"/>
     </a>
+</p>
 

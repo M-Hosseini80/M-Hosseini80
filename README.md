@@ -1,12 +1,6 @@
 # [Seyed Mohamad Hossein Hosseini](https://mohamadhossein.ir/ "Seyed Mohamad Hossein Hosseini")
 
     Hi, I am a frontend web <developer/>
-
-<p align="center">
-     <a href="#" alt="Mohamad Hosseini's github top languages">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hosseini80"/>
-    </a>
- </p>
  
  - **Website**: https://mohamadhossein.ir/
  - **Projects**: https://www.projects.mohamadhossein.ir/

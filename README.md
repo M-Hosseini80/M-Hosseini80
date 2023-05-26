@@ -33,6 +33,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-hosseini80/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/M_Hosseini80) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/M_Hosseini80?sub_confirmation=1) 
-
----
-[![](https://visitcount.itsvg.in/api?id=M-Hosseini80&icon=3&color=3)](https://visitcount.itsvg.in)
